@@ -1,10 +1,6 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://ibb.co/qnRT9g8" width="320" alt="Nest Logo" /></a>
+  <img src="https://i.ibb.co/j5LnGwY/Untitled-drawio-3.png" width="350" title="hover text">
 </p>
-
-## Description
-
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
 
